@@ -1,0 +1,28 @@
+.background {
+  background: linear-gradient(to bottom, #4f7dc4, #d779b7);
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.background {
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+  }
+  
+  .background > div {
+    height: 100%;
+    width: 100%;
+  }

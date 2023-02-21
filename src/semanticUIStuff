@@ -1,0 +1,132 @@
+<h1> A whole bunch of semantic UI elements </h1>
+    <button class="ui button">Follow</button>
+    <div class="ui divider"></div>
+
+    <i class="ae flag"></i>
+<i class="france flag"></i>
+<i class="myanmar flag"></i>
+    
+<h1 class="ui header">First header</h1>
+<h2 class="ui header">Second header</h2>
+<h3 class="ui header">Third header</h3>
+<h4 class="ui header">Fourth header</h4>
+<h5 class="ui header">Fifth header</h5>
+
+<button class="ui button">
+
+  
+     Button
+     <i class="bell slash outline icon"></i>
+<i class="calendar icon"></i>
+<i class="calendar outline icon"></i>
+<i class="calendar alternate icon"></i>
+<i class="calendar alternate outline icon"></i>
+<i class="calendar check icon"></i>
+<i class="calendar check outline icon"></i>
+  
+</button>
+
+
+<i class="angle double down icon"></i>
+<i class="angle double left icon"></i>
+
+<div class="ui label">
+  <i class="mail icon"></i> 23
+</div>
+
+<div class="ui segment">
+  <div class="ui left internal rail">
+    <div class="ui segment">
+      Data 1
+    </div>
+  </div>
+  <div class="ui right internal rail">
+    <div class="ui segment">
+      Data 2
+    </div>
+  </div>
+</div>
+    
+<div class="ui link list">
+  <div class="active item">Home</div>
+  <a class="item">About</a>
+  <a class="item">Jobs</a>
+  <a class="item">Team</a>
+</div>
+
+
+<div class="ui segment">
+  <div class="ui active inverted dimmer">
+    <div class="ui text loader">Loading</div>
+  </div>
+  <p></p>
+</div>
+
+<div class="ui three doubling stackable cards">
+  <div class="ui card">
+    <div class="image">
+      <div class="ui placeholder">
+        <div class="square image"></div>
+      </div>
+    </div>
+    <div class="content">
+      <div class="ui placeholder">
+        <div class="header">
+          <div class="very short line"></div>
+          <div class="medium line"></div>
+        </div>
+        <div class="paragraph">
+          <div class="short line"></div>
+        </div>
+      </div>
+    </div>
+    <div class="extra content">
+      <div class="ui disabled primary button">Add</div>
+      <div class="ui disabled button">Delete</div>
+    </div>
+  </div>
+</div>
+
+<div class="ui placeholder segment">
+  <div class="ui icon header">
+    <i class="pdf file outline icon"></i>
+    No documents are listed for this customer.
+  </div>
+  <div class="ui primary button">Add Document</div>
+</div>
+
+<div class="ui steps">
+  <a class="active step">
+    <i class="truck icon"></i>
+    <div class="content">
+      <div class="title">Shipping</div>
+      <div class="description">Choose your shipping options</div>
+    </div>
+  </a>
+  <a class="step">
+    <div class="content">
+      <div class="title">Billing</div>
+      <div class="description">Enter billing information</div>
+    </div>
+  </a>
+</div>
+
+<div class="ui breadcrumb">
+  <a class="section">Home</a>
+  <div class="divider"> / </div>
+  <a class="section">Store</a>
+  <div class="divider"> / </div>
+  <div class="active section">T-Shirt</div>
+</div>
+
+<div class="ui inverted vertical pointing menu">
+  <a class="item active">
+    Home
+  </a>
+  <a class="item">
+    Messages
+  </a>
+  <a class="item">
+    Friends
+  </a>
+</div>
